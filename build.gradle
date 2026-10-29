@@ -1,0 +1,4 @@
+// Só o plugin oficial do Android. A app não usa nenhuma biblioteca externa.
+plugins {
+    id 'com.android.application' version '8.7.3' apply false
+}
